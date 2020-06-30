@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:oracle:thin:@U1CDM601:1521/cdmsta
+    jdbc-url: jdbc:oracle:thin:@U1CDM601:1521/cdmsta
     username: crmcofdc
     password: Sur6W1ns
     driver-class-name: oracle.jdbc.OracleDriver
